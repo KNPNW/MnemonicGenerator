@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "uncommoncrypto.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tesseract-one/UncommonCrypto.swift.git",
+      "state" : {
+        "revision" : "e089407582e1f2d81dc11ba167362742422b8979",
+        "version" : "0.1.3"
+      }
+    }
+  ],
+  "version" : 2
+}
